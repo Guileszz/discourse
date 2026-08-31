@@ -99,7 +99,7 @@
     "@embroider/macros": "^1.16.12",
     "@embroider/router": "^2.1.12",
     "@embroider/webpack": "^4.1.0",
-    "@floating-ui/dom": "^1.7.5",
+    "@floating-ui/dom": "^1.8.0",
     "@glimmer/component": "^2.0.0",
     "@swc/core": "^1.15.33",
     "@types/jquery": "^3.5.33",
